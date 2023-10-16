@@ -4,5 +4,10 @@ public class smthToBE {
         System.out.println("не вышло");
         System.out.println("не вышло");
         System.out.println("не вышло");
+
+    }
+    public static void method{
+        System.out.println("new method");
+
     }
 }
