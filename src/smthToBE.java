@@ -3,5 +3,6 @@ public class smthToBE {
         System.out.println("просто пытаемся запушить из гита");
         System.out.println("не вышло");
         System.out.println("не вышло");
+        System.out.println("не вышло");
     }
 }
