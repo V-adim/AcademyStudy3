@@ -5,8 +5,12 @@ public class smthToBE {
         System.out.println("не вышло");
         System.out.println("не вышло");
 
+        method();
+
+
+
     }
-    public static void method{
+    public static void method(){
         System.out.println("new method");
 
     }
