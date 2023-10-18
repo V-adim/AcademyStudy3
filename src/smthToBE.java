@@ -4,9 +4,11 @@ public class smthToBE {
         System.out.println("не вышло");
         System.out.println("не вышло");
         System.out.println("не вышло");
-
+        /**
+         * doing something wrong
+         */
         method();
-
+        System.out.println();
 
 
     }
