@@ -4,8 +4,8 @@ public class smthToBE {
         System.out.println("не вышло");
         System.out.println("не вышло");
         System.out.println("не вышло");
-        /**
-         * doing something wrong
+        /**FIXED
+         * doing something wrong FIXED
          */
         method();
         System.out.println();
